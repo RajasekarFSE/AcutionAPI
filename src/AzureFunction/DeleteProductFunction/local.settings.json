@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "GatewayUrl": "https://eauctionapigatewayservice.azurewebsites.net/gateway/",
+    "QueueName": "az-deleteproduct-queue",
+    "AzureWebJobsServiceBus": "Endpoint=sb://eauctionpksb.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=63hxOpOoiPt9ospqR2YyAIVwy1KesrmDlb4Yk6ZXb20="
+  }
+}
